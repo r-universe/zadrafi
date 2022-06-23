@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "concurve"]
+	path = concurve
+	url = https://github.com/zadrafi/concurve
+	shallow = true
+	registered = true
